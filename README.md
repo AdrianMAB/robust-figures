@@ -4,7 +4,8 @@ This repository contains the figures of the article. The methodology combines th
 
 * The observed and simulated hydrographs.
 * Discrete probability distribution function.
-![Rain probability](generator/discrete/average.eps)
+![Average Rain probability](generator/discrete/average.svg)
+![Rain probability for all stations](generator/discrete/full.svg)
 * Continuous probability distribution function.
 * Similarity between synthetic data and observed precipitation.
 * Ranges of variation of distributed vulnerability.
