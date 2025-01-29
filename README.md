@@ -9,3 +9,4 @@ This repository contains the figures of the article. The methodology combines th
 * Continuous probability distribution function.
 * Similarity between synthetic data and observed precipitation.
 * Ranges of variation of distributed vulnerability.
+![Variation of global vulnerability over one cell for all the iterations](vulnerability/high_vul_boxplot.svg)
