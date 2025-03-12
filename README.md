@@ -14,8 +14,6 @@ This repository contains the figures of the article. The methodology combines th
 ### Animations
 This folder have animated GIFs of the lowest, average and highest values of vulnerabilities of iterations. [**View more.**](vulnerability/gif/)
 
-![Global vulnerability (lower iteration)](vulnerability/gif/IVG_vulmin.gif)
-
-![Global vulnerability (average iteration)](vulnerability/gif/IVG_vulmin.gif)
-
-![Global vulnerability (higher iteration)](vulnerability/gif/IVG_vulmax.gif)
+| ** Minimum **            |  ** Average **               |   ** Minimum **          |
+:-------------------------:|:-------------------------:|:-------------------------:
+![Global vulnerability (lower iteration)](vulnerability/gif/IVG_vulmin.gif) | ![Global vulnerability (average iteration)](vulnerability/gif/IVG_vulaverage.gif) | ![Global vulnerability (higher iteration)](vulnerability/gif/IVG_vulmax.gif)
